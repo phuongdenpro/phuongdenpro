@@ -1,6 +1,7 @@
 ### 👋 Hi there 
 📫 How to reach me: phuongdenpro@gmail.com
-  ![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
+
+![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
 
 ### About me🧑:
 I am Fullstack Developer student<br/>
