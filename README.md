@@ -7,7 +7,6 @@
 I am Fullstack Developer student<br/>
 I am interested in learning Programing Language and would 💖 to grow my knowledge in these Technologies.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
 
 - 🌱 I’m currently learning Fullstack Development.
 - ⚡ Fun fact: I 💖 to code 24x7.
