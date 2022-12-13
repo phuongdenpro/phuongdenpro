@@ -6,7 +6,7 @@
 
 ### About me🧑:
 I am Fullstack Developer student<br/>
-I am interested in learning Programing Language, Web Framework and would 💖 to grow my knowledge in these Technologies.
+I am interested in learning Programing Language and would 💖 to grow my knowledge in these Technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="250" />
 
@@ -41,10 +41,6 @@ I am interested in learning Programing Language, Web Framework and would 💖 to
 <div>
 
 <a href="https://github.com/phuongdenpro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&langs_count=6&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/phuongdenpro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phuongdenpro&theme=tokyonight" />
 </a>
 
@@ -60,6 +56,6 @@ I am interested in learning Programing Language, Web Framework and would 💖 to
 
 </div>
 -----
-Credits: [phuongdenpro](https://github.com/phuongdenpro)
+Credits: [Phương Đình Phan](https://github.com/phuongdenpro)
 
 
