@@ -49,10 +49,6 @@ I am interested in learning Programing Language, Web Framework and would 💖 to
 </a>
 
 <br/>
-<a href="https://github.com/phuongdenpro">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=phuongdenpro&column=7&theme=onedark" />
-</a>
-<br/>
 <br/>
 
 </div>                                                                                                                 
