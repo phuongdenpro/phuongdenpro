@@ -1,8 +1,6 @@
 ### 👋 Hi there 
 📫 How to reach me: phuongdenpro@gmail.com
 
-![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
-
 
 ### About me🧑:
 I am Fullstack Developer student<br/>
@@ -50,6 +48,8 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 </div>                                                                                                                 
 
 <div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
   
 
 ### Show ❤️ by 🌟 my [repositories](https://github.com/phuongdenpro?tab=repositories)!
