@@ -34,19 +34,6 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 ---
 
-### Github Activity 
-
-<div>
-
-<a href="https://github.com/phuongdenpro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phuongdenpro&theme=tokyonight" />
-</a>
-
-<br/>
-<br/>
-
-</div>                                                                                                                 
-
 <div align="center">
   
 
