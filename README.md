@@ -42,7 +42,4 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 ### Show ❤️ by 🌟 my [repositories](https://github.com/phuongdenpro?tab=repositories)!
 
 </div>
------
-Credits: [Phương Đình Phan](https://github.com/phuongdenpro)
-
 
