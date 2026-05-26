@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Phuong%20Dinh%20Phan&fontAlign=50&fontSize=50&desc=Frontend%20Developer%20•Mobile%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Phuong%20Dinh%20Phan&fontAlign=50&fontSize=50&desc=Frontend%20Developer%20•Mobile%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=65"/>
 </p>
 
 📫 How to reach me: phuongdenpro@gmail.com
