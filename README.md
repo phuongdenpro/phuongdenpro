@@ -13,7 +13,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 <br/>
 ## 🚀 Tech Stack
-
+<br/>
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,java,mysql,postgres,firebase,git,github,vscode"/>
@@ -37,7 +37,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/phuongdenpro)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/phuongphan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/phuongdinhphan)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:phuongdenpro@gmail.com)
 
