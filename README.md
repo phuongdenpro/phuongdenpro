@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Phuong+Dinh+Phan;Frontend+Developer+🚀;Mobile+Developer+🚀;Backend+Developer+⚡;FullStack+Developer+⚡;Building+Projects+Every+Day+🔥;Code+•+Learn+•+Repeat+💻"/>
 </p>
-<p align="center">
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Phuong%20Dinh%20Phan&fontAlign=50&fontSize=50&desc=Frontend%20Developer%20•Mobile%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=65"/>
