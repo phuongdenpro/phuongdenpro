@@ -7,7 +7,7 @@
 
 <p align="center">
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:2563EB,100:9333EA&text=Phuong%20Dinh%20Phan&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=Flutter%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=62"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:2563EB,100:9333EA&text=Phuong%20Dinh%20Phan&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=Frontend%20Developer%20•Mobile%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=62"/>
 </p>
 
 📫 How to reach me: phuongdenpro@gmail.com
