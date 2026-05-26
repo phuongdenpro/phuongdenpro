@@ -48,7 +48,34 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
+## 🏆 GitHub Trophy
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=phuongdenpro&theme=tokyonight&row=1&column=7"/>
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phuongdenpro&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight"/>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=phuongdenpro&style=for-the-badge&color=blue"/>
+
+</p>
+## 🎵 Now Playing
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg"/>
+<img src="https://metrics.lecoq.io/phuongdenpro"/>
+<p align="center">
+<img width="500"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:9333EA&height=120&section=footer"/>
 ---
 <summary> Connect with me🤝: </summary>  
 <div align="center">
