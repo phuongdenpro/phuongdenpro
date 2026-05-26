@@ -20,8 +20,26 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 </p>
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=phuongdenpro&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phuongdenpro&theme=tokyo-night)]()
+
 ---
 <summary> Connect with me🤝: </summary>  
+
+## 🌐 Connect
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/phuongdenpro)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/phuongphan)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:phuongdenpro@gmail.com)
 
 
 
