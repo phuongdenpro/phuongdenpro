@@ -48,17 +48,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
-## 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=phuongdenpro&theme=tokyonight&row=1&column=7"/>
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=phuongdenpro&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight"/>
 
 </p>
 <p align="center">
