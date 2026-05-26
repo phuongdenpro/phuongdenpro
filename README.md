@@ -25,7 +25,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 <br/>
 ## 🚀 Tech Stack
 <br/>
-<p align="left">
+<p align="center">
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nestjs,java,spring,cs,dotnet,postman,npm,mysql,postgres,mongodb,firebase,aws,azure,gcp,docker,gmail,git,github,vscode,visualstudio,notion,eclipse,windows,linux,discord"/>
