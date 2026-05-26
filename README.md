@@ -45,14 +45,23 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 ---
 <summary> Connect with me🤝: </summary>  
+<div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/phuongdenpro)
+<a href="https://facebook.com/phuongdenpro">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/phuongdinhphan)
+<a href="https://linkedin.com/in/phuongdinhphan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:phuongdenpro@gmail.com)
+<a href="mailto:phuongdenpro@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-
+</div>
 
 ---
 
