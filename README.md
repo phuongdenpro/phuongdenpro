@@ -19,7 +19,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,java,mysql,postgres,firebase,git,github,vscode"/>
 
 </p>
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuongdenpro/phuongdenpro/output/github-contribution-grid-snake-dark.svg">
@@ -35,12 +35,16 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=phuongdenpro&theme=tokyo-night)]()
+## 📈 Activity Graph
+
+<p align="center">
+<a href="https://github.com/phuongdenpro">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuongdenpro&theme=tokyo-night"/>
+</a>
+</p>
 
 ---
 <summary> Connect with me🤝: </summary>  
-
-## 🌐 Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook)](https://facebook.com/phuongdenpro)
 
