@@ -49,14 +49,6 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
 
-## 📈 Activity Graph
-
-<p align="center">
-<a href="https://github.com/phuongdenpro">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuongdenpro&theme=tokyo-night"/>
-</a>
-</p>
-
 ---
 <summary> Connect with me🤝: </summary>  
 <div align="center">
