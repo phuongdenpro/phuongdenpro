@@ -16,7 +16,9 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 <br/>
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,java,mysql,postgres,firebase,git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,react,nextjs,java,spring,cs,dotnet,mysql,postgres,firebase,aws,openai,git,github,vscode,notion"/>
+</p>
 
 </p>
 
