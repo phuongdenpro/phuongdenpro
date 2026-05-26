@@ -19,8 +19,9 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,java,mysql,postgres,firebase,git,github,vscode"/>
 
 </p>
-## 🐍 Contribution
 
+## 🐍 Contribution
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phuongdenpro/phuongdenpro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phuongdenpro/phuongdenpro/output/github-contribution-grid-snake.svg">
