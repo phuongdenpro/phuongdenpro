@@ -6,19 +6,18 @@
 </p>
 <p align="center">
 
-```console
-> whoami
+<h1 align="center">
+✨ Welcome To My GitHub ✨
+</h1>
 
-Phuong Phan
+<h3 align="center">
+Building apps • Learning everyday • Creating ideas 🚀
+</h3>
 
-> skills
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Phuong%20Phan&fontAlign=50&fontSize=50&desc=Flutter%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=65"/>
+</p>
 
-Flutter | ASP.NET | React | Cloud | AI
-
-> current_status
-
-Learning Fullstack Development...
-</p> ```
 📫 How to reach me: phuongdenpro@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
