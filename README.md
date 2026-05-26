@@ -1,6 +1,10 @@
 ### 👋 Hi there 
 📫 How to reach me: phuongdenpro@gmail.com
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Phuong+Phan;Flutter+Developer+🚀;ASP.NET+Backend+Developer+⚡;Building+Projects+Every+Day+🔥;Code+•+Learn+•+Repeat+💻"/>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=phuongdenpro&color=green)
 
 ### About me🧑:
