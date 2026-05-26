@@ -42,13 +42,13 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 </picture>
 
 ## 📊 GitHub Stats
-
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=phuongdenpro&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phuongdenpro&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
-
+</p>
 
 </p>
 
@@ -59,7 +59,6 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
----
 <summary> Connect with me🤝: </summary>  
 <div align="center">
 
