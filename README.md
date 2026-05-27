@@ -56,7 +56,7 @@ I am interested in learning Programing Language and would 💖 to grow my knowle
 
 <p align="center">
 <img width="500"
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21hNDR1M3hpeDVuemF6MWtwbHRjdjk5eHU1M3VsczhkZ2FvbmVqcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8m7nAJTYvzNUh54HQm/giphy.gif">
 </p>
 
 <summary> Connect with me🤝: </summary>  
