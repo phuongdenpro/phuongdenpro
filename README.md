@@ -1,8 +1,10 @@
 # Phuong Dinh Phan
 
+
 **Software Developer** focused on building reliable, maintainable products across web, mobile, and backend platforms.
 
 I care about clear architecture, pragmatic delivery, clean code, and long-term maintainability. My work spans frontend experiences, mobile applications, backend services, cloud deployment, and database design.
+
 
 ## Core Expertise
 
