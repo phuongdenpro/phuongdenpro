@@ -1,8 +1,10 @@
 # Phuong Dinh Phan
 
-**Senior Full-Stack Developer** focused on building reliable, scalable, and maintainable products across web, mobile, and backend platforms.
 
-I bring a product-minded engineering approach: clear architecture, pragmatic delivery, clean code, and long-term maintainability. My work spans frontend experiences, mobile applications, backend services, cloud deployment, and database design.
+**Software Developer** focused on building reliable, maintainable products across web, mobile, and backend platforms.
+
+I care about clear architecture, pragmatic delivery, clean code, and long-term maintainability. My work spans frontend experiences, mobile applications, backend services, cloud deployment, and database design.
+
 
 ## Core Expertise
 
